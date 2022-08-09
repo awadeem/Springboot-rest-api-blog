@@ -1,6 +1,6 @@
 package com.springboot.blog.controller;
 
-import com.springboot.blog.model.LoginDto;
+import com.springboot.blog.payload.LoginDto;
 import com.springboot.blog.model.Role;
 import com.springboot.blog.model.User;
 import com.springboot.blog.payload.SignupDto;
